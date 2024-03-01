@@ -16,7 +16,11 @@ To reset the score, simply click the "Reset score" button at the bottom of the g
 - `rock-emoji.png`, `paper-emoji.png`, `scissors-emoji.png`: Images used for the move icons.
 
 ## Screenshots
-(Optional: Include screenshots of the game interface or gameplay)
+![image](https://github.com/m-sondhi/Rock-Paper-Scissors/assets/116465575/52b3c47b-db39-453a-94d6-cc4f9859605a)   
+
+![image](https://github.com/m-sondhi/Rock-Paper-Scissors/assets/116465575/9045f0e1-ed08-4b25-8564-0760a9ccd2d2)
+
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
